@@ -1,0 +1,81 @@
+# 📊 Global Superstore Sales Dashboard (Power BI)
+
+This project is a **Power BI dashboard** built for analyzing **sales, profit, quantity, and discounts** from the Global Superstore dataset. It helps businesses understand trends across months, shipping modes, and product categories.
+
+---
+
+## 📁 File Included
+
+- `Global_Superstore_Dashboard.pbix` – The Power BI dashboard file (make sure to include this in your repo)
+
+---
+
+## 📌 Dashboard Features
+
+- 💵 **Total Profit** and **Total Sales** KPIs
+- 📆 **Monthly Sales Trend Line**
+- 📦 **Sales & Profit by Category**
+- 🚢 **Sales by Ship Mode** (Pie Chart)
+- 📉 **Discounts by Ship Mode**
+- 📚 **Profit by Sub-Category and Category** (Stacked Bar)
+
+---
+
+## 📈 Data Sources
+
+The dataset includes:
+
+- `Orders`
+- `Returns`
+- `People`
+- `Orders$FilterDatabase`
+
+(Data originally sourced from the Global Superstore Excel workbook)
+
+---
+
+## 🎯 Purpose
+
+This dashboard is designed to:
+
+- Identify profitable categories
+- Track monthly sales trends
+- Analyze shipping performance
+- Spot discount-heavy modes
+
+---
+
+## 🛠️ Tools Used
+
+- Power BI Desktop
+- DAX for calculated fields
+- Basic data modeling & cleaning
+
+---
+
+## 🚀 How to Use
+
+1. Download the `.pbix` file.
+2. Open it with [Power BI Desktop](https://powerbi.microsoft.com/desktop/).
+3. Explore or customize visuals as per your need.
+
+---
+
+## 📸 Preview
+
+![Dashboard Screenshot](./dashboard-preview.png)
+
+> (Optional: Rename and upload your screenshot file as `dashboard-preview.png` to show visual preview)
+
+---
+
+## 👩‍💻 Author
+
+**Sajitha Shanmugam**  
+[GitHub](https://github.com/sajitha-shanmugam) | [LinkedIn](https://linkedin.com/in/your-link)
+
+---
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
