@@ -63,11 +63,8 @@ This dashboard is designed to:
 
 ## 📸 Preview
 
-![Dashboard Screenshot](./dashboard-preview.png)
+![image](https://github.com/user-attachments/assets/2e9e2c97-1bab-4895-bf5a-cc0b2e25e16b)
 
-> (Optional: Rename and upload your screenshot file as `dashboard-preview.png` to show visual preview)
-
----
 
 ## 👩‍💻 Author
 
